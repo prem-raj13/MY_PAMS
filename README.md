@@ -1,2 +1,4 @@
 # MY_PAMS
-A brief portfolio of mine using html, css and php
+MY Personal ASPIRATION System , which is a breif introduction about me and my hobbies.
+
+I have made use of "HTML" , "CSS" and "PHP".
